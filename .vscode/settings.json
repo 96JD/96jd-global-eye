@@ -1,0 +1,11 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"importSorter.generalConfiguration.sortOnBeforeSave": true,
+	"importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.type": "newLineEachExpressionAfterCountLimitExceptIfOnlyOne",
+	"importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 120,
+	"importSorter.importStringConfiguration.tabSize": 4,
+	"importSorter.importStringConfiguration.tabType": "tab",
+	"importSorter.importStringConfiguration.quoteMark": "double",
+	"importSorter.sortConfiguration.removeUnusedDefaultImports": true
+}

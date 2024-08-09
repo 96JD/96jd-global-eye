@@ -1,0 +1,9 @@
+.history
+.husky
+.vscode
+node_modules
+.eslintrc.json
+.markdownlint.json
+.prettierrc
+README.md
+tsconfig.json
